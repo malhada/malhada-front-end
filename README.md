@@ -1,2 +1,10 @@
 # malhada-front-end
-Repository to store front-end code for Malhada.
+
+## Overiew
+A React application to serve [malhada-back-end](https://github.com/malhada/malhada-back-end)
+
+## Todo
+- Start work on front-end.
+
+## Dependencies
+- React
